@@ -1,2 +1,6 @@
 # Do not add checkpoints
 .ipynb_checkpoints/
+
+# Do not include the data subdirectory
+data/
+

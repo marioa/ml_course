@@ -5,6 +5,6 @@
 data/
 
 # Other stuff not to include.
-jupyter_ystore.db
+.jupyter_ystore.db
 .virtual_documents/
 

@@ -4,3 +4,7 @@
 # Do not include the data subdirectory
 data/
 
+# Other stuff not to include.
+jupyter_ystore.db
+.virtual_documents/
+
